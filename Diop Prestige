@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Personal</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Free HTML5 Template plus Photoshop design">
+  <meta name="keywords" content="free html template, portfolio, html5, sass, jquery">
+  <meta name="author" content="Bucky Maler">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#5572fe">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+
+	<!-- SECTION: Splashscreen -->
+	<div class="splashscreen">
+		<div class="preloader">
+			<span class="preloader__text">Loading</span>
+		</div>
+	</div>
+	<!-- END SECTION: Splashscreen -->
+	<!-- SECTION: Navigation -->
+	<div id="top" class="navigation">
+		<div class="navigation__wrapper wrapper--large">
+			<a class="navigation__logo logo" href="#0"><img src="assets/img/logo 2.jpg" class="img-responsive" alt="logo" width="160x160"></a>
+			<nav class="navigation__container">
+				<ul class="navigation__list">
+					<li><a href="#0">Accueil</a></li>
+					<li><a href="#work">A propos</a></li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
+			</nav>
+			<div class="navigation__burger">
+				<span class="navigation__burger-el navigation__burger-el--top"></span>
+				<span class="navigation__burger-el navigation__burger-el--middle"></span>
+				<span class="navigation__burger-el navigation__burger-el--bottom"></span>
+			</div>
+		</div>
+	</div>
+	<!-- END SECTION: Navigation -->
+	<!-- SECTION: Intro -->
+	<header class="header">
+		<div class="introduction">
+			<h1 class="introduction__content">
+				<span class="introduction__content-el introduction__content-el--name">Astou DIOP</span>
+				<span class="introduction__content-el introduction__content-el--description">Creative</span>
+				<span class="introduction__content-el introduction__content-el--job">Professional</span>
+			</h1>
+			<svg class="introduction__arrow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0" y="0" viewBox="0 0 130 65" xml:space="preserve" enable-background="new 0 0 130 65"><g transform="translate(0.000000,65.000000) scale(0.100000,-0.100000)"><path d="M22.2 634c-50-35-40-47 293-349 174-157 323-285 333-285 24 0 635 552 647 585 8 23 6 30-14 46 -13 10-31 19-40 19s-57-37-107-83c-50-45-179-162-287-260l-197-179 -147 134c-319 289-433 388-446 388C50.2 650 34.2 643 22.2 634z"/></g></svg>
+		</div>
+	</header>
+	<!-- END SECTION: Intro -->
+	<main role="main">
+		<!-- SECTION: About -->
+		<section class="about">
+			<div class="about__wrapper wrapper--small">
+				<div class="about__content">
+					<div class="about__content-blurb blurb blurb--framed">
+						<h2 class="blurb__heading">Travaillez<br>Toujour travaillez</h2>
+						<p class="blurb__copy no-margin">Pour une Afrique emergente</p><br />
+						<p class="about__content-signature">Astou DIOP</p>
+					</div>
+				<button style="background-color: blue; color: #ffffff;">Engagez-moi</button>
+                    <button style="background-color: green; color: #ffffff;" ><a href="CV Astou DIOP.pdf" style="color: #ffffff; background-color: green;" download>Télécharger CV</a></button>
+							</div>
+				<img class="about__visual" src="assets/img/Astou (2).png" class="img-responsive" width="380x1500" alt="Astou DIOP">
+			</div>
+		</section>
+		<!-- END SECTION: About -->
+		<!-- SECTION: App Design -->
+		<section class="app-design">
+			<div class="app-design__wrapper wrapper--large">
+				<div class="app-design__content blurb">
+					<h3>Développement web</h3>
+	<p class="details">Si vous voulez une  application pour vos entreprises contactez- moi. je le fais  dès que<br />  possible en respectant les normes de la charte graphique. Si vous n'aimez pas, je  change ceci  jusqu'à<br /> ce que  vous serez satisfaite.</p>
+</div>
+				</div>
+			</div>
+			<figure class="app-design__visual"></figure>
+		</section>
+		<!-- END SECTION: App Design -->
+		<!-- SECTION: Web Design -->
+		<section class="web-design">
+			<div class="web-design__wrapper wrapper--small">
+				<div class="web-design__content blurb">
+					<h2 class="blurb__heading">Site web<br></h2>
+					<p class="blurb__copy blurb__copy--tight">Vous êtes une entreprise ou un particulier et vous voulez créer un site web pour votre entreprise. Cotactez-moi</p>
+				</div>
+					<figure class="web-design__visual"></figure>
+
+			</div>
+		</section>
+
+
+		<section class="web-design">
+			<div class="web-design__wrapper wrapper--small">
+				<div class="web-design__content blurb">
+					<h2 class="blurb__heading">Architecture<br></h2>
+					<p class="blurb__copy blurb__copy--tight">Vous êtes une entreprise ou un particulier et vous voulez un plan de maison, contactez-moi car, je produit des plans de qualités biens détailés en 2D, 3D et en maquette.</p>
+				</div>
+							<figure class="phome-plan2.png"><img src="assets/img/home-plan2.png" class="img-responsive" width="300x300"></figure>
+
+							<figure class="maison-3D.png"><img src="assets/img/maison-3D.png" class="img-responsvie" width="300x300"></figure>
+			</div>
+		</section>
+
+
+
+		<section class="web-design">
+			<div class="web-design__wrapper wrapper--small">
+				<div class="web-design__content blurb">
+					<h2 class="blurb__heading">Cartographie<br></h2>
+					<p class="blurb__copy blurb__copy--tight" class="p-responsive">Vous êtes une entreprise, un particulier, une collectivité territoriale, un archéologue et vous voulez des cartes de localisations géographiques pour un pays ou les différentes circonscriptions adminitratives d'une région, contactez-moi car, je créé  des plans topographique, thématique, géologique, etc biens détailés.
+				</div>
+				<figure class="plusieurs plans.png"><img src="assets/img/Carte  de situation de la région de Dakar.png" class="img-responsive" width="500x500"></figure>
+		</section>
+			</div>
+			
+		<!-- END SECTION: Web Design -->
+		<!-- SECTION: Work -->
+		<section id="work" class="work">
+			<h2 class="work__heading title">Diplômes et formations</h2>
+			<section>
+<!--box--------------------------------------------------------------->
+<div class="box-container">
+<!--1----------------------------------------------------------------->
+<div class="box-1" style="background-color: blue;">
+	<button type="button" style="background-color: green; color: #ffffff; width: 150px">2020/2021</button><br />
+	<p class="details" style="color: #ffffff;">Formation en développement d'applicationweb et mobile</p><br /><br /><br /><br /><br /><br />
+	<a href="DUEL I ET II.jpg" style="color: #ffffff;" download>Télécharger l'attestation ici</a>
+</div>
+<!--2----------------------------------------------------------------->
+<div class="box-2"style="background-color: blue;">
+	<button type="button" style="background-color: green; color: #ffffff; width: 150px">2017/2019</button><br />
+	<p class="details" style="color: #ffffff;">Attestation licence professionel en géomatique à ISIT AFRIQUE(Institut Supérieur d'Ingenierie Territorial).</p><br /><br /><br /><br /><br /><br />
+	<a href="DUEL I ET II.jpg" style="color: #ffffff;" download>Télécharger l'attestation ici</a>
+</div>
+<!--3----------------------------------------------------------------->
+<div class="box-3"style="background-color: blue;">
+<button type="button" style="background-color: green; color: #ffffff; width: 150px;">2012/2013</button><br />
+	<p class="details" style="color: #ffffff;">Attestation en Master II Histoire spécialité archéologie à l'Université CheikAnta DIOP de Dakar</p><br /><br /><br /><br /><br /><br />
+	<a href="Master II.jpg" style="color: #ffffff;" download>Télécharger l'attestation ici</a>
+</div>
+</div>
+</section>
+<section>
+<div class="box-container2">
+<!--1----------------------------------------------------------------->
+<div class="box-4" style="background-color: blue;">
+	<button type="button" style="color: #ffffff; background-color: green; width: 150px;">2011/2012</button><br />
+
+	<p class="details">Attestation en Master I Histoire spécialité archéologie à l'Université Cheikh Anta DIOP de Dakar</p><br /><br /><br /><br /><br />
+	<a href="MASTER I.jpg" style="color: #ffffff;" donwload>Télécharger l'attestation ici</a>
+</div>
+<!--2----------------------------------------------------------------->
+<div class="box-5" style="background-color: blue;">
+	<button type="button" style="background-color: green; color: #ffffff; width: 150px;">2010/2011</button><br />
+	<p class="details">Attestation Licence Histoire à l'Université Cheikh Anta DIOP de Dakar</p><br /><br /><br /><br /><br /><br />
+<a href="LICENCE.jpg" style="color: #ffffff;" download>Télécharger l'attestation ici</a>
+</div>
+<!--3----------------------------------------------------------------->
+<div class="box-6" style="background-color: blue;">
+<button type="button" style="background-color: green; color: #ffffff; width: 150px;">2008-2010</button><br />
+	<p class="details">
+	DUEL I et II ( Diplome Universitaire d'ETUDE Litteraire) en Histoire à l'Université Cheikh Anta DIOP de Dakar</p><br /><br /><br /><br /><br />
+	<a href="DUEL I ET II.jpg" style="color: #ffffff;" download>Télécharger l'attestation ici</a>
+</div>
+        <div class="box-7">
+				<button type="button" class="btn btn-success" style="background-color: green; width: 150px; color: #ffffff;">2007-2008</button><br />
+				<p class="details">BACCALAUREAT au Lycéé Seydiba Limamoulaye de Guédiawaye, série L'1</p><br /><br /><br /><br /><br /><br /><br />
+			    <a href="BAC.jpg" style="color: #ffffff;" download>Télécharger diplôme ici ici</a>
+		</div>
+</div>
+</section>
+<section id="work" class="work">
+			<h2 class="work__heading title">Expériences professionnelles</h2>
+			<section>    
+				<div class="row">
+    	<div id="block1"  style="border: 1px solid green; background-color: blue;">
+				<button type="button" style="background-color: green; color: #ffffff;">2020</button>
+			<p style="color: #ffffff; margin-top: 5px; margin-right: 10px; margin-left: 10px;">Stage en rédaction d'article web à Rédacti express</p>
+    </div>
+<div id="block2" style="border: 1px solid green; background-color: blue;">
+	             <button type="button"style="background-color: green; color: #ffffff;">2019</button>
+	            <p style="color: #ffffff; margin-top: 5px; margin-right: 10px; margin-left: 10px;">Stage au Cadastre de Diourbel</p>
+	             <a href="stage cadastre.jpg" style="color: #ffffff" download>Télécharger l'attestation ici</a>
+	    
+	</div>
+        <div id="block3" style="border: 1px solid green; background-color: blue;"><div id="block3">
+			<button type="button" style="background-color: green; color: #ffffff;">2016-2017</button>
+					<p style="color: #ffffff; margin-top: 5px; margin-right: 10px; margin-left: 10px;">Tutrice à l'Université Cheikh Anta DIOP de Dakar</p>
+		</div>
+		<div id="block4" class="col-xs" style="border: 1px solid green"><div id="block4">
+       <button type="button" style="background-color: green; color: #ffffff; ">2012-2016</button>
+					<p style="color: #ffffff; margin-top: 5px; margin-right: 10px; margin-left: 10px;">Stages en recherches archéologiques( prospection et fouilles) et en enquêtes ethnographiques</p>
+
+       <div id="block5" class="col-xs" style="border: 1px solid green"><div id="block5">
+
+       <button type="button" style="background-color: green; color: #ffffff; ">2013-2014</button>
+					<p style="color: #ffffff; margin-top: 5px; margin-right: 10px; margin-left: 10px;">Autorisation d'ensiegner pour le niveau secondaire-moyen</p>
+					<a href="autorisation.jpg" style="color: #ffffff"  download>Télécharger le justificatif ici</a>
+		</div>
+</section>
+
+<section id="work" class="work">
+			<h2 class="work__heading title">Publications</h2>
+			<section>
+	<ol>
+  <li>Problématique de l'origine des groupes culturels ouest'africains: Le cas des Bedik, publié dans le site de academai.org</li>
+    <li>Les Bedik, une identité ethnique issue d'interactions culturelles, publié dans le site de academai.org</li>
+    <li>Les relations entre l'homme et l'animal de la préhistoire à l'époque  moderne et contemporaine, livre de 256 pages publié à EDILIVRE( maison d'Edition française)</li>
+    <li>L'intégration des Etats ouest-africain de l'époque préocoloniale à l'indépendance, publié en decembre 2018 dans la maison d'édition française EDILIVRE</li>
+
+</ol>
+</section>
+	
+
+		<!-- END SECTION: Blog -->
+		<!-- SECTION: Contact -->
+
+			
+		<section id="contact" class="contact">
+			<h2 class="contact__heading title">Contactez-moi</h2>
+				<center><h4>Si vous avez un Projet en tête</h4></center>
+<center><button>Contactez Moi</button></center><br />
+			<div class="contact__wrapper wrapper--large">
+				<div class="contact__visual">
+
+					
+					<dir><iframe class="right" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d123471.15755341643!2d-17.4227456!3d14.742323200000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2ssn!4v1625786717006!5m2!1sfr!2ssn" width="400" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe></dir>
+					
+ 
+ 
+ 
+					</form>
+				</div>
+				<!-- Simple form setup: formspree.io -->
+				<form class="contact__form">
+					<input class="contact__form-el contact__form-el--name" type="text" placeholder="Votre nom" spellcheck="false">
+					<input class="contact__form-el contact__form-el--email" type="email" placeholder="Votre Email" spellcheck="false">
+					<textarea class="contact__form-el contact__form-el--message" placeholder="Votre message"></textarea>
+					<input class="contact__form-el contact__form-el--submit" type="submit" value="Envoyez">
+				</form>
+				<fieldset style="width: 500px; height: 300px;">
+						<legend style="font-weight: bold;">Mes coordonnées</legend>
+					
+					 <p>Prénom : Astou</p>
+					 <p>Nom : DIOP</p>
+					<p>Adresse : Guédiawaye, Wakhinane 4<br />, Etage Madialé, Terminus bus 41</p>
+					 <p>Téléphone : +221 77 757 81 74<br >  +221 70 606 33 18</p>
+					 <p>Email : belleastoudiop@gmail.com> </p>
+					 <p>Site web : https://www.diop-prestige.sn</p>
+
+                    </fieldset>
+			</div>
+		</section>
+	
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<!-- jQuery local fallback -->
+	<script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
+	<script src="assets/js/functions-min.js"></script>
+	<!-- Google Analytics: change UA-XXXXX-X to be your site's ID and uncomment -->
+	<!--
+	<script>
+	(function(b, o, i, l, e, r) {
+		b.GoogleAnalyticsObject = l;
+		b[l] || (b[l] =
+			function() {
+				(b[l].q = b[l].q || []).push(arguments)
+			});
+		b[l].l = +new Date;
+		e = o.createElement(i);
+		r = o.getElementsByTagName(i)[0];
+		e.src = '//www.google-analytics.com/analytics.js';
+		r.parentNode.insertBefore(e, r)
+	}(window, document, 'script', 'ga'));
+	ga('create', 'UA-XXXXX-X', 'auto');
+	ga('send', 'pageview');
+	</script>
+	-->	
+<div id="footer">
+	<p>DIOP PRESTIGE</p>
+	<p>I make as soon as possibale. You really like my work, if you don't I change this until you likeI give you setifsfaction result</p>
+	<!--social------------------------------------------------------------------------->
+	    <div class="social-icons">
+		
+				<a href="#"><img src="img/facebook.png"></a>
+				<a href="#"><img src="img/twitter.png"></a>
+				<a href="#"><img src="img/instagram.png"></a>
+				<a href="#"><img src="img/youtube.png"></a>
+				<a href="#"><img src="img/whatsapp.png"></a>
+	    </div>
+       <div class="a-social-b">
+		
+				<a href="#"><img src="img/facebook.png"></a>
+				<a href="#"><img src="img/twitter.png"></a>
+				<a href="#"><img src="img/instagram.png"></a>
+				<a href="#"><img src="img/youtube.png"></a>
+				<a href="#"><img src="img/whatsapp.png"></a>
+		</div>
+		<div class="copyright">
+	           <p class="copyright-lg" >Copyright by DIOP PRESTIGE</p>
+       </div>
+</div>
+<!--attached social bar-------------------------------->
+
+</body>
+
+</html>
+
+
+	
+	</div>
+	<!--copyright---------------------------------------------------------------------------->
+</footer>
